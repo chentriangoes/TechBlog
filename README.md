@@ -23,7 +23,7 @@ Landing Page
 
 ## 🕹 Technologies
 
-express-handlebars
+* [express-handlebars](https://www.npmjs.com/package/express-handlebars)
 * [Node.js](https://nodejs.org/)
 * [MySQL2](https://www.npmjs.com/package/mysql2)
 * [sequelize](https://www.npmjs.com/package/sequelize)
