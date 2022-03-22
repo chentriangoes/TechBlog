@@ -10,7 +10,7 @@ This project is to create a tech blog by using the Model-View-Controller (MVC), 
 ### 📽 Demonstration
 
 Deployed Links:
-* [Heroku](https://floating-castle-02348.herokuapp.com/login )
+* [Heroku](https://floating-castle-02348.herokuapp.com )
 
 ### 📷 Screenshots
 
